@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cucina_raffinata/static/css/main.4ee5de77.css",
-    "main.js": "/cucina_raffinata/static/js/main.66f7a617.js",
+    "main.css": "/cucina_raffinata/static/css/main.901001e7.css",
+    "main.js": "/cucina_raffinata/static/js/main.05671fb6.js",
     "static/media/meat-1155132.png": "/cucina_raffinata/static/media/meat-1155132.9a3d1db75e2abf7671aa.png",
     "static/media/dahiana-waszaj-XQWfro4LrVs-unsplash.png": "/cucina_raffinata/static/media/dahiana-waszaj-XQWfro4LrVs-unsplash.3c2407873625ae15f05e.png",
     "static/media/platter-2009590_1920.png": "/cucina_raffinata/static/media/platter-2009590_1920.7acb5480ad9e3b5c2f3c.png",
@@ -19,11 +19,11 @@
     "static/media/Italiana-Regular.ttf": "/cucina_raffinata/static/media/Italiana-Regular.2d0e370dde5190d0d6a0.ttf",
     "static/media/Background Image.png": "/cucina_raffinata/static/media/Background Image.c59421c689d6d4a9f7bf.png",
     "index.html": "/cucina_raffinata/index.html",
-    "main.4ee5de77.css.map": "/cucina_raffinata/static/css/main.4ee5de77.css.map",
-    "main.66f7a617.js.map": "/cucina_raffinata/static/js/main.66f7a617.js.map"
+    "main.901001e7.css.map": "/cucina_raffinata/static/css/main.901001e7.css.map",
+    "main.05671fb6.js.map": "/cucina_raffinata/static/js/main.05671fb6.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee5de77.css",
-    "static/js/main.66f7a617.js"
+    "static/css/main.901001e7.css",
+    "static/js/main.05671fb6.js"
   ]
 }
