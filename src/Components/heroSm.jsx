@@ -16,8 +16,8 @@ export const HeroSmallScreen = () => {
                         </div>
                         <div className="h-contentB">
                             <h6>BOOK A RESERVATION</h6>
-                            <div className="bounce" >
-                                <MdOutlineKeyboardDoubleArrowDown className="down-arrow" />
+                            <div className="bounce">
+                                <a style={{color:"#fff"}} href="/#Reservation"><MdOutlineKeyboardDoubleArrowDown className="down-arrow" /></a>
                             </div>
                         </div>
                     </div>

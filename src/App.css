@@ -658,6 +658,7 @@ form {
 .hero-sm {
   background-image: url(./images/krista-stucchio-2CZ0Zpuj-gU-unsplash.png);
   /* background-size: contai;  */
+  height: 100svh;
   background-repeat: no-repeat;
 }
 
