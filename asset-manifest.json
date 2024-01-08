@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/cucina_raffinata/static/css/main.4ee5de77.css",
+    "main.js": "/cucina_raffinata/static/js/main.66f7a617.js",
+    "static/media/meat-1155132.png": "/cucina_raffinata/static/media/meat-1155132.9a3d1db75e2abf7671aa.png",
+    "static/media/dahiana-waszaj-XQWfro4LrVs-unsplash.png": "/cucina_raffinata/static/media/dahiana-waszaj-XQWfro4LrVs-unsplash.3c2407873625ae15f05e.png",
+    "static/media/platter-2009590_1920.png": "/cucina_raffinata/static/media/platter-2009590_1920.7acb5480ad9e3b5c2f3c.png",
+    "static/media/krista-stucchio-2CZ0Zpuj-gU-unsplash.png": "/cucina_raffinata/static/media/krista-stucchio-2CZ0Zpuj-gU-unsplash.da7bed38436ef2707094.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/cucina_raffinata/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
+    "static/media/pexels-pixabay-53148.png": "/cucina_raffinata/static/media/pexels-pixabay-53148.2e927422db681493c08e.png",
+    "static/media/pizza-5179939.png": "/cucina_raffinata/static/media/pizza-5179939.8148fe2c6cfedc8216f3.png",
+    "static/media/Clip path group4.png": "/cucina_raffinata/static/media/Clip path group4.dac888e03158147bb684.png",
+    "static/media/Mask Group 6.png": "/cucina_raffinata/static/media/Mask Group 6.cfdb9d86b5c099294c3e.png",
+    "static/media/spaghetti-2931846.png": "/cucina_raffinata/static/media/spaghetti-2931846.a049f9917364fd61a55d.png",
+    "static/media/Clip path group.png": "/cucina_raffinata/static/media/Clip path group.98a1f5939a203a7e46de.png",
+    "static/media/Mask Group 2.png": "/cucina_raffinata/static/media/Mask Group 2.50bf73ecfc1863796211.png",
+    "static/media/Clip path group3.png": "/cucina_raffinata/static/media/Clip path group3.7b0ace7f45c81c517c0e.png",
+    "static/media/Clip path group2.png": "/cucina_raffinata/static/media/Clip path group2.5a450b2c6619ecc6eee4.png",
+    "static/media/Italiana-Regular.ttf": "/cucina_raffinata/static/media/Italiana-Regular.2d0e370dde5190d0d6a0.ttf",
+    "static/media/Background Image.png": "/cucina_raffinata/static/media/Background Image.c59421c689d6d4a9f7bf.png",
+    "index.html": "/cucina_raffinata/index.html",
+    "main.4ee5de77.css.map": "/cucina_raffinata/static/css/main.4ee5de77.css.map",
+    "main.66f7a617.js.map": "/cucina_raffinata/static/js/main.66f7a617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee5de77.css",
+    "static/js/main.66f7a617.js"
+  ]
+}
